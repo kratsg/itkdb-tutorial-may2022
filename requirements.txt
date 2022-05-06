@@ -1,4 +1,0 @@
-ipykernel==6.13.0
-itkdb==0.4.0rc1
-jupyter==1.0.0
-rsa==4.8
